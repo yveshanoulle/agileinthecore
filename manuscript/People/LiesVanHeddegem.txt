@@ -1,11 +1,15 @@
-#Who is Lies Van Heddegem? {#LiesVanHeddegem}
+# Who is Lies Van Heddegem? {#LiesVanHeddegem}
 
-! [Lies](images/LiesVanHeddegem.jpg)
+![Lies](images/LiesVanHeddegem.jpg)
+
+I asked Lies as a start for the book, as she is leading agile in the core in 2015.
+
 
 **What is something people usually don’t know about you but has influenced you in who you are?**
 
- I studied ‘sport science’ and worked 10 years in sports industry (mainly
- tennis federation). 
+
+I studied ‘sport science’ and worked 10 years in sports industry (mainly
+tennis federation). 
 
 **If would not be doing the job you are doing now, what would have become of you?**
 
