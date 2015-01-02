@@ -1,2 +1,4 @@
 People/YvesHanoulle.txt
+People/JohanLybaert.txt
+People/ArieVanBennekum.txt
 People/LiesVanHeddegem.txt
