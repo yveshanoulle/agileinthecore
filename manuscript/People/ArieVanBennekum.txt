@@ -41,4 +41,5 @@ The question is "Why does Agile match you?". The answer would be "Because Agile 
 
 **Whom do you think we should ask next from agile in the core?**
 
-Johan Lybaert
+[Johan Lybaert](#JohanLybaert)
+
