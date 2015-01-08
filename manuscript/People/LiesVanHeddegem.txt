@@ -42,4 +42,4 @@ family/friends
 
 **Whom do you think we should ask next from agile in the core?**
 
-Nick Oostvogels, because he was the only coach who was not present in Rotterdam
+[Nick Oostvogels](#NickOostvogels), because he was the only coach who was not present in Rotterdam..
