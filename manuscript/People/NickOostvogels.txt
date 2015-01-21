@@ -54,4 +54,5 @@ I practiced many sports in my life, such as skiing, snowboarding, mountainbike, 
 
 **Whom do you think we should ask next from agile in the core?**
 
-Anybody, really.  I’m interested in hearing stories from all of them.  Maybe someone I don’t know at all, like Steven Genoe.
+Anybody, really.  I’m interested in hearing stories from all of them.  Maybe someone I don’t know at all, like
+[Steven Genoe](#StevenGenoe).
