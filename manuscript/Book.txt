@@ -1,5 +1,7 @@
+People/CharlesLouisDemaere.txt
 People/StevenGenoe.txt
 People/YvesHanoulle.txt
+People/PeterLie.txt
 People/JohanLybaert.txt
 People/NickOostvogels.txt
 People/ArieVanBennekum.txt
