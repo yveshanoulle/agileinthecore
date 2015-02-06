@@ -49,4 +49,5 @@ What is your main hobby/interest?
 
 **Whom do you think we should ask next from agile in the core?**
 
-Jan de Baere
+
+[Jan De Baere](#JanDeBaere)

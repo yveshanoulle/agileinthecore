@@ -1,4 +1,4 @@
-# Who is Charles Louis De Maere? {#CharlesLouisDeMaere}
+# Who is Charles-Louis De Maere? {#Charles-LouisdeMaere}
 ![CharlesLouis](images/CharlesLouis.jpg)
 
 
@@ -51,5 +51,5 @@ Being a happy husband and father of three is my biggest achievement. I also [...
 
 **Whom do you think we should ask next from agile in the core?**
 
-I think now might be a good time to ask Peter Lie.
+I think now might be a good time to ask [Peter Lie](#PeterLie).
 
