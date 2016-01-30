@@ -6,3 +6,4 @@ People/JohanLybaert.txt
 People/NickOostvogels.txt
 People/ArieVanBennekum.txt
 People/LiesVanHeddegem.txt
+People/JanDeBaere.txt

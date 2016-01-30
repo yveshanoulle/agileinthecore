@@ -1,0 +1,49 @@
+# Who is Empty? {#Empty}
+![Empty](images/Empty.jpg)
+
+
+**What is something people usually don't know about you but has influenced you in who you are?**
+
+In my former company we went through a cultural change.  The director wanted to go from, he being the big boss taking all the decisions towards a collaborative style of management.  The change agent proposed an organisational type of company called adhocratie.  We started with nothing but the principles and values of adhocratie.  We formed cross functional teams, learned to listen to each other, learned how collaborate, how to come up with creative ideas and above all how to co-create.  When we were looking for ways to make our internal IT more collaborative we found Agile.  It was a perfect match as Agile and adhocratie share the same values. 
+Most people in Agile community start from techniques as scrum and end up with the agile values, were I started to work with the agile values for a couple of years before we found techniques like scrum and Kanban.
+
+
+**If would not be doing the job you are doing now, what would have become of you?**
+
+I would probably be a coach in the domain of personal development and/or organisational change.
+
+
+
+**What is your biggest challenge and why is it a good thing for you?**
+
+My biggest challenge is working with hierarchically oriented people.  As coach I should be able to deal with all kinds of people. 
+
+
+**What drives you?**
+
+Challenges, doing the impossible. As the most difficult challenges are with people, I get that warm feeling of contentment when I see improvements happening with individuals or with groups of people.
+
+
+**What is your biggest achievement?**
+
+I remember that two directors of a client had personal issues with each other for years.  Direct result was that a key project of the client had stopped as they both saw fundamentally different solutions. After my intervention all parties involved had created a solution together – short term and long term - so the key project could go on despite the personal issues between the two directors.
+
+**Is there a piece of music that has a special meaning for you?**
+
+Although I play music myself there is no piece of music that has a special meaning for me.
+
+
+**What is the last book you have read?**
+
+“Organisatieontwikkeling met Theory U“ a follow up book of the book “Theory U”.  “Theory U” was theoretical and this one gives practical tools on how to implement Theory U.
+
+
+**What question do you think I should also ask and what is the answer?**
+
+What is your contribution to the agile community? 
+As I’m a terrible writer I cannot write blogs or tweet so I had to find another way.  I share my knowledge giving speeches.  This structurally via –mini- XP days an Agile Tour Brussels. On request I also spoke at IPMA, CIOnet and others.  I’m also chair of the Agile Consortium Belgium, an organisation run by and for agile companies. In 2015 we organized a world congress about scaling agile.  Main event took place in Brussels and was followed by 250 people in Rome, London, Mombai, Stockholm…
+
+**Whom do you think we should ask next from agile in the core?**
+
+Franky Redant
+
